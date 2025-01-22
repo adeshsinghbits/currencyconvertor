@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        bgImage: "url('./src/assets/bgimage.jpg')",
+        bgImage: "url('./src/assets/currencyconvertor.webp')",
       }
     },
   },

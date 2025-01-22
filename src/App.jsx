@@ -25,7 +25,7 @@ const convert = (e) => {
 
 return (
     <div
-        className="h-screen relative  w-84 flex flex-col justify-center items-center bg-[url('./src/assets/bgimage.jpg')] bg-cover bg-no-repeat"
+        className="h-screen relative  w-84 flex flex-col justify-center items-center bg-bgImage bg-cover bg-no-repeat"
     >   
         <AnimatePresence>
             <motion.div
