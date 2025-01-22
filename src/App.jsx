@@ -25,7 +25,8 @@ const convert = (e) => {
 
 return (
     <div
-        className="h-screen relative  w-84 flex flex-col justify-center items-center bg-bgImage bg-cover bg-no-repeat"
+        className="h-screen relative  w-84 flex flex-col justify-center items-center bg-cover bg-no-repeat"
+        style={{ backgroundImage: "url('./src/assets/currencyconvertor.webp')" }}
     >   
         <AnimatePresence>
             <motion.div

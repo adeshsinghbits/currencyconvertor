@@ -5,11 +5,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {
-      backgroundImage: {
-        bgImage: "url('./src/assets/currencyconvertor.webp')",
-      }
-    },
+    extend: {},
   },
   plugins: [],
 }
